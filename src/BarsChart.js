@@ -40,7 +40,7 @@ var meses = [
 
 var misoptions = {
   responsive: true,
-  animation: true, //animar la gráfica al empezar
+  animation: false, //desactivar la animación de la gráfica al empezar
   plugins: {
     legend: {
       display: false,
